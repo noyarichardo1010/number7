@@ -1,0 +1,50 @@
+@media screen and (max-width: 700px) {
+    .wrap_body .navbar{
+        position: relative;
+    }
+    .wrap_body .hero_1 h1{
+        font-size: 40px;
+    }
+    .hero_1{
+        .hero-content{
+            p{
+                br{
+                    display: none;
+                }
+            }
+        }
+    }
+    .wrap_body .hero_2 .border_1{
+        padding-top: 40px;
+    }
+    .wrap_body .hero_2 h3{
+        font-size: 32px;
+    }
+    .hero_3{
+        img.banner_move{
+            display: none;
+        }
+    }
+    .wrap_body .hero_2 {
+        padding-bottom: 16px;
+    }
+    .wrap_body .hero_3 .service h2 {
+        font-size: 32px;
+        color: #1f232e;
+    }
+    .wrap_body .hero_4 .card{
+        margin-top: 0;
+        height: 100%;
+    }
+    .wrap_body .hero_4{
+        padding-top: 50px;
+        .col-12.col-md-6{
+            margin-bottom: 16px;
+        }
+    }
+
+
+
+
+
+}
